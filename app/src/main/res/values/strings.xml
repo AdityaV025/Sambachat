@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SambaChat</string>
+    <string name="sign_up">Need A New Account ?</string>
+    <string name="Createacc">Create Account</string>
+    <string name="log_out">Log Out</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="all_users">All Users</string>
+    <string name="new_ac">Create A New Account</string>
+    <string name="Welcome">Welcome To Samba Chat App</string>
+    <string name="log_in_Btn_Text_Welcome">Already Have An Account</string>
+    <string name="login_AC">Login To Your Account</string>
+    <string name="login_Btn">Log In</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
